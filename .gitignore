@@ -1,0 +1,22 @@
+# IDE Ignores
+.idea/
+.vscode/
+
+# OS Ignores
+.DS_Store
+
+# Deployment Ignores
+volumes/
+
+# Python Ignores
+__pycache__/
+*.py[cod]
+*.pyo
+*.pyd
+*.egg-info/
+*.egg
+*.whl
+*.coverage
+*.tox/
+*.pytest_cache/
+
